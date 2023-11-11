@@ -3,7 +3,7 @@
 - 👀 I worked on algorithm, HTML, CSS/SCSS, Bootstrap, JS, REACT/REACT NATIVE. 
 - 🌱 I’m currently focusing on developing web/mobile apps that contains reusable, efficient and clean codes.
 - 💞️ I’m looking forward to collaborate on exciting projects! Let's connect.
-- 📫 You can reach me via "amutlu073@gmail.com" or my linked|n account => "ahmettmutlu"
+- 📫 You can reach me via "amutlu073@gmail.com" or my Linked|n account => "ahmettmutlu"
 
 <!---
 ahmtmutlu/ahmtmutlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
